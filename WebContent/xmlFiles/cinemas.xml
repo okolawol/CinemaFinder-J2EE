@@ -1,0 +1,187 @@
+<?xml-stylesheet type="text/xsl"?>
+<cinemas xmlns:cinemaLog="http://www.cinema.com/cinemas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cinema.com/cinemas cinemas.xsd">
+		<cinema>
+			<name>Silvercity Metropolis Cinemas</name>
+			<address>4700 Kingsway Avenue, Burnaby BC</address>
+			<postalcode>V5H 4M1</postalcode>
+			<phone>604 435 1999</phone>
+			<mainphoto id="img1" url="http://farm5.staticflickr.com/4116/4776621595_31fe78e2ed_o.jpg" />
+			
+			<amenities>
+				<amenity amen="Real 3D projection"></amenity>
+				<amenity amen="Party rooms"></amenity>
+				<amenity amen="10 screens"></amenity>
+			</amenities>
+			<admissions>
+				<admission price="$12.50" target="general 14-64yrs"></admission>
+				<admission price="$9.50" target="child 3-13yrs"></admission>
+				<admission price="$9.50" target="senior 65+yrs"></admission>
+			</admissions>
+			<latitude>49.2294908</latitude>
+			<longitude>-123.0025753</longitude>
+		</cinema>
+		
+		<cinema>
+			<name>Scotiabank Theatre Vancouver</name>
+			<address>900 Burrard Street, Vancouver BC</address>
+			<postalcode>V6Z 3G5</postalcode>
+			<phone>604 630 1407</phone>
+			<mainphoto id="img2" url="http://farm5.staticflickr.com/4057/4528923544_ebcf078e57.jpg" />
+			<amenities>
+				<amenity amen="Real D 3D projection"></amenity>
+				<amenity amen="9 screens"></amenity>
+			</amenities>
+			<admissions>
+				<admission price="$12.99" target="general 14-64yrs"></admission>
+				<admission price="$10.50" target="child 3-13yrs"></admission>
+				<admission price="$10.50" target="senior 65+yrs"></admission>
+			</admissions>
+			<latitude>49.281874</latitude>
+			<longitude>-123.124402</longitude>
+		</cinema>
+		
+		<cinema>
+			<name>Vogue Theatre Vancouver</name>
+			<address>918 Granville Street, Vancouver BC</address>
+			<postalcode>V6Z 1L2</postalcode>
+			<phone>604 331 7900</phone>
+			<mainphoto id="img3" url="http://images1-cdn.clubzone.com/company/images/6289/1.jpg" />
+			<amenities>
+				<amenity amen="1 screen"></amenity>
+			</amenities>
+			<admissions>
+				<admission price="type of show determines the price" target="general all ages"></admission>
+			</admissions>
+			<latitude>49.2800868</latitude>
+			<longitude>-123.1217438</longitude>
+		</cinema>
+		
+		<cinema>
+			<name>Empire Theaters - Granville 7</name>
+			<address>855 Granville Street, Vancouver BC</address>
+			<postalcode>V6Z 1k7</postalcode>
+			<phone>604 684 4000</phone>
+			<mainphoto id="img4" url="http://www.vancouversun.com/entertainment/movie-guide/7365939.bin" />
+			<amenities>
+				<amenity amen="7 screens"></amenity>
+			</amenities>
+			<admissions>
+				<admission price="$9.95" target="general 14-64yrs"></admission>
+				<admission price="$9.95" target="child 3-13yrs"></admission>
+				<admission price="$9.95" target="senior 65+yrs"></admission>
+			</admissions>
+			<latitude>49.2808456</latitude>
+			<longitude>-123.1206287</longitude>
+		</cinema>
+		
+		<cinema>
+			<name>Pacific Cinematheque</name>
+			<address>1131 Howe Street, Vancouver BC</address>
+			<postalcode>V6Z 2L7</postalcode>
+			<phone>604 688 3456</phone>
+			<mainphoto id="img5" url="http://www.bcliving.ca/sites/default/files/imagecache/node_image_small/files/articles/GVO-SC-PacificCinematheque-5.jpg" />
+			<amenities>
+				<amenity amen="1 screen"></amenity>
+			</amenities>
+			<admissions>
+				<admission price="$8.50" target="general 14-64yrs"></admission>
+				<admission price="no entry" target="child 3-13yrs"></admission>
+				<admission price="$7.00" target="senior 65+yrs"></admission>
+			</admissions>
+			<latitude>49.27889961260955</latitude>
+			<longitude>-123.12582850456238</longitude>
+		</cinema>
+		
+		<cinema>
+			<name>Denman Cinema</name>
+			<address>1737 Comox Street, Vancouver BC</address>
+			<postalcode>V6G 1P5</postalcode>
+			<phone>604 558 3456</phone>
+			<mainphoto id="img6" url="http://www.straight.com/files/images/wide/DenmanCinemas_0.jpg" />
+			<amenities>
+				<amenity amen="1 screen"></amenity>
+			</amenities>
+			<admissions>
+				<admission price="$7.95" target="general 14-64yrs"></admission>
+				<admission price="$5.95" target="child 3-13yrs"></admission>
+				<admission price="$5.95" target="senior 65+yrs"></admission>
+			</admissions>
+			<latitude>49.2884432</latitude>
+			<longitude>-123.1390122</longitude>
+		</cinema>
+		
+		<cinema>
+			<name>Vancity Theater</name>
+			<address>1181 Seymour Street, Vancouver BC</address>
+			<postalcode>V6B 3M7</postalcode>
+			<phone>604 683 3456</phone>
+			<mainphoto id="img7" url="http://cdn.viff.org/sites/default/files/styles/large/public/vifc_night6.jpg" />
+			<amenities>
+				<amenity amen="3 screens"></amenity>
+			</amenities>
+			<admissions>
+				<admission price="$7.95" target="general 14-64yrs"></admission>
+				<admission price="$5.95" target="child 3-13yrs"></admission>
+				<admission price="$5.95" target="senior 65+yrs"></admission>
+			</admissions>
+			<latitude>49.2769827</latitude>
+			<longitude>-123.1247764</longitude>
+		</cinema>
+		
+		<cinema>
+			<name>Cineplex Odeon International Village Cinemas</name>
+			<address>88 West Pender, 3rd Floor, Vancouver BC</address>
+			<postalcode>V6B 6N9</postalcode>
+			<phone>604 806 0799</phone>
+			<mainphoto id="img8" url="http://mediafiles.cineplex.com/TheatrePhotos/images/1147_01_CO%2BInternational%2BVillage_EXT_front%2Bdoors.jpg" />
+			<amenities>
+				<amenity amen="12 screens"></amenity>
+				<amenity amen="Real D 3D projection"></amenity>
+			</amenities>
+			<admissions>
+				<admission price="$12.75" target="general 14-64yrs"></admission>
+				<admission price="$9.75" target="child 3-13yrs"></admission>
+				<admission price="$9.75" target="senior 65+yrs"></admission>
+			</admissions>
+			<latitude>49.280792</latitude>
+			<longitude>-123.1072872</longitude>
+		</cinema>
+		
+		<cinema>
+			<name>Rio Theater</name>
+			<address>1660 East Broadway, Vancouver BC</address>
+			<postalcode>V5N 1W1</postalcode>
+			<phone>604 878 3456</phone>
+			<mainphoto id="img9" url="http://www.straight.com/files/images/wide/Rio_theatre.jpg" />
+			<amenities>
+				<amenity amen="1 screen"></amenity>
+			</amenities>
+			<admissions>
+				<admission price="$8.00" target="general 14-64yrs"></admission>
+				<admission price="$5.00" target="child 3-13yrs"></admission>
+				<admission price="$5.00" target="senior 65+yrs"></admission>
+			</admissions>
+			<latitude>49.262126553791155</latitude>
+			<longitude>-123.07044625282288</longitude>
+		</cinema>
+		
+		<cinema>
+			<name>Omnimax Theater</name>
+			<address>1455 Quebec Street, Science World, Vancouver BC</address>
+			<postalcode>V6A 3Z7</postalcode>
+			<phone>604 443 7443</phone>
+			<mainphoto id="img10" url="http://www.straight.com/files/imagecache/display/timeout/events/3459/scienceworld1.jpg" />
+			<amenities>
+				<amenity amen="1 screen"></amenity>
+			</amenities>
+			<admissions>
+				<admission price="$17.75" target="general 14-64yrs"></admission>
+				<admission price="$13.50" target="child 3-13yrs"></admission>
+				<admission price="$13.50" target="senior 65+yrs"></admission>
+			</admissions>
+			<latitude>49.273376</latitude>
+			<longitude>-123.103834</longitude>
+		</cinema>
+		
+		
+</cinemas>

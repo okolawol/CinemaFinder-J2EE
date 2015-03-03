@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='cinemas.xsl'?><cinemas><cinema>
+			<name>Silvercity Metropolis Cinemas</name>
+			<address>4700 Kingsway Avenue, Burnaby BC</address>
+			<postalcode>V5H 4M1</postalcode>
+			<phone>604 435 1999</phone>
+			<mainphoto id="img1" url="http://farm5.staticflickr.com/4116/4776621595_31fe78e2ed_o.jpg" />
+			
+			<amenities>
+				<amenity amen="Real 3D projection" />
+				<amenity amen="Party rooms" />
+				<amenity amen="10 screens" />
+			</amenities>
+			<admissions>
+				<admission price="$12.50" target="general 14-64yrs" />
+				<admission price="$9.50" target="child 3-13yrs" />
+				<admission price="$9.50" target="senior 65+yrs" />
+			</admissions>
+			<latitude>49.2294908</latitude>
+			<longitude>-123.0025753</longitude>
+		<photos><photo url_s="http://farm1.static.flickr.com/110/285300769_db4d12e7a2_m.jpg" url_t="http://farm1.static.flickr.com/110/285300769_db4d12e7a2_t.jpg" /><photo url_s="http://farm5.static.flickr.com/4130/5055115973_7319eb1e88_m.jpg" url_t="http://farm5.static.flickr.com/4130/5055115973_7319eb1e88_t.jpg" /><photo url_s="http://farm5.static.flickr.com/4126/5209430489_20929e594f_m.jpg" url_t="http://farm5.static.flickr.com/4126/5209430489_20929e594f_t.jpg" /><photo url_s="http://farm5.static.flickr.com/4113/5210030104_f6e7119afa_m.jpg" url_t="http://farm5.static.flickr.com/4113/5210030104_f6e7119afa_t.jpg" /><photo url_s="http://farm6.static.flickr.com/5004/5242269714_6a50fb034a_m.jpg" url_t="http://farm6.static.flickr.com/5004/5242269714_6a50fb034a_t.jpg" /></photos></cinema><cinema>
+			<name>Scotiabank Theatre Vancouver</name>
+			<address>900 Burrard Street, Vancouver BC</address>
+			<postalcode>V6Z 3G5</postalcode>
+			<phone>604 630 1407</phone>
+			<mainphoto id="img2" url="http://farm5.staticflickr.com/4057/4528923544_ebcf078e57.jpg" />
+			<amenities>
+				<amenity amen="Real D 3D projection" />
+				<amenity amen="9 screens" />
+			</amenities>
+			<admissions>
+				<admission price="$12.99" target="general 14-64yrs" />
+				<admission price="$10.50" target="child 3-13yrs" />
+				<admission price="$10.50" target="senior 65+yrs" />
+			</admissions>
+			<latitude>49.281874</latitude>
+			<longitude>-123.124402</longitude>
+		<photos><photo url_s="http://farm5.static.flickr.com/4069/4500804220_8ccac89965_m.jpg" url_t="http://farm5.static.flickr.com/4069/4500804220_8ccac89965_t.jpg" /><photo url_s="http://farm1.static.flickr.com/56/146707271_3fe69a6a28_m.jpg" url_t="http://farm1.static.flickr.com/56/146707271_3fe69a6a28_t.jpg" /><photo url_s="http://farm1.static.flickr.com/23/32498491_be2e2bf588_m.jpg" url_t="http://farm1.static.flickr.com/23/32498491_be2e2bf588_t.jpg" /><photo url_s="http://farm1.static.flickr.com/21/32498419_78812805bb_m.jpg" url_t="http://farm1.static.flickr.com/21/32498419_78812805bb_t.jpg" /><photo url_s="http://farm1.static.flickr.com/116/274888854_46c5b0fcbe_m.jpg" url_t="http://farm1.static.flickr.com/116/274888854_46c5b0fcbe_t.jpg" /></photos></cinema><cinema>
+			<name>Vogue Theatre Vancouver</name>
+			<address>918 Granville Street, Vancouver BC</address>
+			<postalcode>V6Z 1L2</postalcode>
+			<phone>604 331 7900</phone>
+			<mainphoto id="img3" url="http://images1-cdn.clubzone.com/company/images/6289/1.jpg" />
+			<amenities>
+				<amenity amen="1 screen" />
+			</amenities>
+			<admissions>
+				<admission price="type of show determines the price" target="general all ages" />
+			</admissions>
+			<latitude>49.2800868</latitude>
+			<longitude>-123.1217438</longitude>
+		<photos><photo url_s="http://farm3.static.flickr.com/2685/4292050867_38303b33d0_m.jpg" url_t="http://farm3.static.flickr.com/2685/4292050867_38303b33d0_t.jpg" /><photo url_s="http://farm5.static.flickr.com/4097/4946979307_dba3a80cf5_m.jpg" url_t="http://farm5.static.flickr.com/4097/4946979307_dba3a80cf5_t.jpg" /><photo url_s="http://farm4.static.flickr.com/3264/3086798380_2d0c841545_m.jpg" url_t="http://farm4.static.flickr.com/3264/3086798380_2d0c841545_t.jpg" /><photo url_s="http://farm8.static.flickr.com/7137/7684798748_3534208491_m.jpg" url_t="http://farm8.static.flickr.com/7137/7684798748_3534208491_t.jpg" /><photo url_s="http://farm4.static.flickr.com/3146/3086798384_42428f9321_m.jpg" url_t="http://farm4.static.flickr.com/3146/3086798384_42428f9321_t.jpg" /></photos></cinema><cinema>
+			<name>Empire Theaters - Granville 7</name>
+			<address>855 Granville Street, Vancouver BC</address>
+			<postalcode>V6Z 1k7</postalcode>
+			<phone>604 684 4000</phone>
+			<mainphoto id="img4" url="http://www.vancouversun.com/entertainment/movie-guide/7365939.bin" />
+			<amenities>
+				<amenity amen="7 screens" />
+			</amenities>
+			<admissions>
+				<admission price="$9.95" target="general 14-64yrs" />
+				<admission price="$9.95" target="child 3-13yrs" />
+				<admission price="$9.95" target="senior 65+yrs" />
+			</admissions>
+			<latitude>49.2808456</latitude>
+			<longitude>-123.1206287</longitude>
+		<photos><photo url_s="http://farm5.static.flickr.com/4019/4620521911_b9d20ced6b_m.jpg" url_t="http://farm5.static.flickr.com/4019/4620521911_b9d20ced6b_t.jpg" /><photo url_s="http://farm4.static.flickr.com/3148/3086798376_cb174e6f90_m.jpg" url_t="http://farm4.static.flickr.com/3148/3086798376_cb174e6f90_t.jpg" /><photo url_s="http://farm8.static.flickr.com/7137/7684798748_3534208491_m.jpg" url_t="http://farm8.static.flickr.com/7137/7684798748_3534208491_t.jpg" /><photo url_s="http://farm6.static.flickr.com/5047/5297425809_98bf72bcce_m.jpg" url_t="http://farm6.static.flickr.com/5047/5297425809_98bf72bcce_t.jpg" /><photo url_s="http://farm2.static.flickr.com/1410/701748152_15e4b61321_m.jpg" url_t="http://farm2.static.flickr.com/1410/701748152_15e4b61321_t.jpg" /></photos></cinema><cinema>
+			<name>Pacific Cinematheque</name>
+			<address>1131 Howe Street, Vancouver BC</address>
+			<postalcode>V6Z 2L7</postalcode>
+			<phone>604 688 3456</phone>
+			<mainphoto id="img5" url="http://www.bcliving.ca/sites/default/files/imagecache/node_image_small/files/articles/GVO-SC-PacificCinematheque-5.jpg" />
+			<amenities>
+				<amenity amen="1 screen" />
+			</amenities>
+			<admissions>
+				<admission price="$8.50" target="general 14-64yrs" />
+				<admission price="no entry" target="child 3-13yrs" />
+				<admission price="$7.00" target="senior 65+yrs" />
+			</admissions>
+			<latitude>49.27889961260955</latitude>
+			<longitude>-123.12582850456238</longitude>
+		<photos><photo url_s="http://farm4.static.flickr.com/3211/3086798386_cac68e76b3_m.jpg" url_t="http://farm4.static.flickr.com/3211/3086798386_cac68e76b3_t.jpg" /><photo url_s="http://farm4.static.flickr.com/3174/2656620387_581a346464_m.jpg" url_t="http://farm4.static.flickr.com/3174/2656620387_581a346464_t.jpg" /><photo url_s="http://farm4.static.flickr.com/3146/3086798384_42428f9321_m.jpg" url_t="http://farm4.static.flickr.com/3146/3086798384_42428f9321_t.jpg" /><photo url_s="http://farm1.static.flickr.com/56/146707271_3fe69a6a28_m.jpg" url_t="http://farm1.static.flickr.com/56/146707271_3fe69a6a28_t.jpg" /><photo url_s="http://farm1.static.flickr.com/23/32498491_be2e2bf588_m.jpg" url_t="http://farm1.static.flickr.com/23/32498491_be2e2bf588_t.jpg" /></photos></cinema><cinema>
+			<name>Denman Cinema</name>
+			<address>1737 Comox Street, Vancouver BC</address>
+			<postalcode>V6G 1P5</postalcode>
+			<phone>604 558 3456</phone>
+			<mainphoto id="img6" url="http://www.straight.com/files/images/wide/DenmanCinemas_0.jpg" />
+			<amenities>
+				<amenity amen="1 screen" />
+			</amenities>
+			<admissions>
+				<admission price="$7.95" target="general 14-64yrs" />
+				<admission price="$5.95" target="child 3-13yrs" />
+				<admission price="$5.95" target="senior 65+yrs" />
+			</admissions>
+			<latitude>49.2884432</latitude>
+			<longitude>-123.1390122</longitude>
+		<photos><photo url_s="http://farm3.static.flickr.com/2766/5798914088_3f6f9d0074_m.jpg" url_t="http://farm3.static.flickr.com/2766/5798914088_3f6f9d0074_t.jpg" /><photo url_s="http://farm1.static.flickr.com/196/497106762_4cb85a07c0_m.jpg" url_t="http://farm1.static.flickr.com/196/497106762_4cb85a07c0_t.jpg" /><photo url_s="http://farm1.static.flickr.com/67/180342266_b9052a8d46_m.jpg" url_t="http://farm1.static.flickr.com/67/180342266_b9052a8d46_t.jpg" /><photo url_s="http://farm5.static.flickr.com/4036/4342838192_5fb7b7776d_m.jpg" url_t="http://farm5.static.flickr.com/4036/4342838192_5fb7b7776d_t.jpg" /><photo url_s="http://farm9.static.flickr.com/8154/7710448158_7a3023244f_m.jpg" url_t="http://farm9.static.flickr.com/8154/7710448158_7a3023244f_t.jpg" /></photos></cinema><cinema>
+			<name>Vancity Theater</name>
+			<address>1181 Seymour Street, Vancouver BC</address>
+			<postalcode>V6B 3M7</postalcode>
+			<phone>604 683 3456</phone>
+			<mainphoto id="img7" url="http://cdn.viff.org/sites/default/files/styles/large/public/vifc_night6.jpg" />
+			<amenities>
+				<amenity amen="3 screens" />
+			</amenities>
+			<admissions>
+				<admission price="$7.95" target="general 14-64yrs" />
+				<admission price="$5.95" target="child 3-13yrs" />
+				<admission price="$5.95" target="senior 65+yrs" />
+			</admissions>
+			<latitude>49.2769827</latitude>
+			<longitude>-123.1247764</longitude>
+		<photos><photo url_s="http://farm4.static.flickr.com/3211/3086798386_cac68e76b3_m.jpg" url_t="http://farm4.static.flickr.com/3211/3086798386_cac68e76b3_t.jpg" /><photo url_s="http://farm5.static.flickr.com/4126/5227329053_395c996900_m.jpg" url_t="http://farm5.static.flickr.com/4126/5227329053_395c996900_t.jpg" /><photo url_s="http://farm5.static.flickr.com/4092/5227924268_1e457ee27d_m.jpg" url_t="http://farm5.static.flickr.com/4092/5227924268_1e457ee27d_t.jpg" /><photo url_s="http://farm6.static.flickr.com/5007/5227924618_83f0d18ca5_m.jpg" url_t="http://farm6.static.flickr.com/5007/5227924618_83f0d18ca5_t.jpg" /><photo url_s="http://farm5.static.flickr.com/4133/5227925212_e7ae3f5a27_m.jpg" url_t="http://farm5.static.flickr.com/4133/5227925212_e7ae3f5a27_t.jpg" /></photos></cinema><cinema>
+			<name>Cineplex Odeon International Village Cinemas</name>
+			<address>88 West Pender, 3rd Floor, Vancouver BC</address>
+			<postalcode>V6B 6N9</postalcode>
+			<phone>604 806 0799</phone>
+			<mainphoto id="img8" url="http://mediafiles.cineplex.com/TheatrePhotos/images/1147_01_CO%2BInternational%2BVillage_EXT_front%2Bdoors.jpg" />
+			<amenities>
+				<amenity amen="12 screens" />
+				<amenity amen="Real D 3D projection" />
+			</amenities>
+			<admissions>
+				<admission price="$12.75" target="general 14-64yrs" />
+				<admission price="$9.75" target="child 3-13yrs" />
+				<admission price="$9.75" target="senior 65+yrs" />
+			</admissions>
+			<latitude>49.280792</latitude>
+			<longitude>-123.1072872</longitude>
+		<photos><photo url_s="http://farm1.static.flickr.com/64/155008735_740f211869_m.jpg" url_t="http://farm1.static.flickr.com/64/155008735_740f211869_t.jpg" /><photo url_s="http://farm2.static.flickr.com/1299/1157788068_6a5c880033_m.jpg" url_t="http://farm2.static.flickr.com/1299/1157788068_6a5c880033_t.jpg" /><photo url_s="http://farm2.static.flickr.com/1260/1157785562_08c358000c_m.jpg" url_t="http://farm2.static.flickr.com/1260/1157785562_08c358000c_t.jpg" /><photo url_s="http://farm2.static.flickr.com/1082/1161636631_5b153154c3_m.jpg" url_t="http://farm2.static.flickr.com/1082/1161636631_5b153154c3_t.jpg" /><photo url_s="http://farm3.static.flickr.com/2385/2302178397_ab3cd9667b_m.jpg" url_t="http://farm3.static.flickr.com/2385/2302178397_ab3cd9667b_t.jpg" /></photos></cinema><cinema>
+			<name>Rio Theater</name>
+			<address>1660 East Broadway, Vancouver BC</address>
+			<postalcode>V5N 1W1</postalcode>
+			<phone>604 878 3456</phone>
+			<mainphoto id="img9" url="http://www.straight.com/files/images/wide/Rio_theatre.jpg" />
+			<amenities>
+				<amenity amen="1 screen" />
+			</amenities>
+			<admissions>
+				<admission price="$8.00" target="general 14-64yrs" />
+				<admission price="$5.00" target="child 3-13yrs" />
+				<admission price="$5.00" target="senior 65+yrs" />
+			</admissions>
+			<latitude>49.262126553791155</latitude>
+			<longitude>-123.07044625282288</longitude>
+		<photos><photo url_s="http://farm1.static.flickr.com/14/18308663_6446d9053e_m.jpg" url_t="http://farm1.static.flickr.com/14/18308663_6446d9053e_t.jpg" /><photo url_s="http://farm6.static.flickr.com/5350/7199369184_ccb4faff51_m.jpg" url_t="http://farm6.static.flickr.com/5350/7199369184_ccb4faff51_t.jpg" /><photo url_s="http://farm2.static.flickr.com/1274/5185004657_b9b34fcfea_m.jpg" url_t="http://farm2.static.flickr.com/1274/5185004657_b9b34fcfea_t.jpg" /><photo url_s="http://farm5.static.flickr.com/4084/5185606046_45f9825484_m.jpg" url_t="http://farm5.static.flickr.com/4084/5185606046_45f9825484_t.jpg" /><photo url_s="http://farm2.static.flickr.com/1434/5185604292_791edee775_m.jpg" url_t="http://farm2.static.flickr.com/1434/5185604292_791edee775_t.jpg" /></photos></cinema><cinema>
+			<name>Omnimax Theater</name>
+			<address>1455 Quebec Street, Science World, Vancouver BC</address>
+			<postalcode>V6A 3Z7</postalcode>
+			<phone>604 443 7443</phone>
+			<mainphoto id="img10" url="http://www.straight.com/files/imagecache/display/timeout/events/3459/scienceworld1.jpg" />
+			<amenities>
+				<amenity amen="1 screen" />
+			</amenities>
+			<admissions>
+				<admission price="$17.75" target="general 14-64yrs" />
+				<admission price="$13.50" target="child 3-13yrs" />
+				<admission price="$13.50" target="senior 65+yrs" />
+			</admissions>
+			<latitude>49.273376</latitude>
+			<longitude>-123.103834</longitude>
+		<photos><photo url_s="http://farm4.static.flickr.com/3031/2517943545_dd1fce1163_m.jpg" url_t="http://farm4.static.flickr.com/3031/2517943545_dd1fce1163_t.jpg" /><photo url_s="http://farm9.static.flickr.com/8026/7503088916_20d920cd3c_m.jpg" url_t="http://farm9.static.flickr.com/8026/7503088916_20d920cd3c_t.jpg" /><photo url_s="http://farm9.static.flickr.com/8163/7503091786_a6a62f70a0_m.jpg" url_t="http://farm9.static.flickr.com/8163/7503091786_a6a62f70a0_t.jpg" /><photo url_s="http://farm4.static.flickr.com/3013/2945757544_81bc9972c1_m.jpg" url_t="http://farm4.static.flickr.com/3013/2945757544_81bc9972c1_t.jpg" /><photo url_s="http://farm3.static.flickr.com/2474/3634817580_f629f4fd7e_m.jpg" url_t="http://farm3.static.flickr.com/2474/3634817580_f629f4fd7e_t.jpg" /></photos></cinema></cinemas>
